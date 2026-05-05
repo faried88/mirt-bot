@@ -1,0 +1,9 @@
+python-telegram-bot==20.7
+pandas
+openpyxl
+numpy
+xlrd
+requests
+google-auth
+google-auth-oauthlib
+google-api-python-client
